@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientAppWpf", "HelloCslaWorld\ClientAppWpf.csproj", "{1497366B-B2E8-462B-BEC8-639D49305CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizLogicLibrary", "BizLogicLibrary\BizLogicLibrary.csproj", "{8313958D-D6A6-4322-AD7F-B9B35A65A2AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CslaAppServer", "CslaWebApplicationServer\CslaAppServer.csproj", "{C948AC78-FB04-4080-A42E-B71B7302486B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1497366B-B2E8-462B-BEC8-639D49305CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1497366B-B2E8-462B-BEC8-639D49305CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1497366B-B2E8-462B-BEC8-639D49305CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1497366B-B2E8-462B-BEC8-639D49305CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8313958D-D6A6-4322-AD7F-B9B35A65A2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8313958D-D6A6-4322-AD7F-B9B35A65A2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8313958D-D6A6-4322-AD7F-B9B35A65A2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8313958D-D6A6-4322-AD7F-B9B35A65A2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C948AC78-FB04-4080-A42E-B71B7302486B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C948AC78-FB04-4080-A42E-B71B7302486B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C948AC78-FB04-4080-A42E-B71B7302486B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C948AC78-FB04-4080-A42E-B71B7302486B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
